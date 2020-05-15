@@ -1,0 +1,17 @@
+# npm packages
+node_modules/*
+
+# Distribution files
+.next/*
+dist/
+
+# Make it active
+# .env.*local
+# .env.development
+# .env.production
+# .env
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
