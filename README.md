@@ -19,9 +19,9 @@ Other links that could be useful.
    ```bash
    git clone https://github.com/koheitakumi/nextjs-9.4.0-with-material-ui.git
    ```
-1. Move the folder.
+1. Move the folder. Of course, you can rename the folder.
    ```bash
-   cd nextjs-9.4.0-with-material-ui.git
+   cd nextjs-9.4.0-with-material-ui
    ```
 1. Install library.
    ```bash
@@ -30,4 +30,9 @@ Other links that could be useful.
 1. Start dev server and access to http://localhost:3000.
    ```bash
    yarn dev
+   ```
+1. If you build the production, do as following.
+   ```bash
+   yarn build
+   yarn start
    ```
