@@ -1,4 +1,4 @@
-# Simple template of Next.js v9.4.0 with Material-UI
+# Simple template of Next.js v9.4.0 with Material-UI and TypeScript
 
 This project is just a sample of Nest.js v9.4.0 with Material-UI.
 Some useful updated features of next.js v9.4.0 are used in this project.
