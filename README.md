@@ -12,3 +12,22 @@ Other links that could be useful.
 
 - Next.js: https://nextjs.org/
 - Material UI: https://material-ui.com
+
+## Get started
+
+1. Git clone.
+   ```bash
+   git clone https://github.com/koheitakumi/nextjs-9.4.0-with-material-ui.git
+   ```
+1. Move the folder.
+   ```bash
+   cd nextjs-9.4.0-with-material-ui.git
+   ```
+1. Install library.
+   ```bash
+   yarn install
+   ```
+1. Start dev server and access to http://localhost:3000.
+   ```bash
+   yarn dev
+   ```
